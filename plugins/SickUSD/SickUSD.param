@@ -1,0 +1,5 @@
+[SickUSD_SickExecutable]
+Type=multilinemultifilename
+Label=Arnold Sick Executable
+Default=/path/to/sick
+Description=Path to the Arnold sick executable.
